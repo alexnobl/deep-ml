@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T08:27:25.449Z",
+  "generated_at": "2026-09-30T15:57:54.160Z",
   "items": {
     "problem:121": {
       "kind": "problem",
@@ -76,6 +76,19 @@
       "path": "problems/0005-scalar-multiplication-of-a-matrix",
       "first_solved_at": "2026-09-30T08:27:24.867Z",
       "last_pushed_at": "2026-09-30T08:27:24.867Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-09-30T15:57:53.937Z",
+      "last_pushed_at": "2026-09-30T15:57:53.937Z",
       "language": "python",
       "lines": 13
     }

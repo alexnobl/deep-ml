@@ -13,3 +13,6 @@ def matrixmul(a:list[list[int|float]],
                 return result
               else:
                 return -1
+
+# torch.matmul(a, b)
+# np.matmul(a, b)
